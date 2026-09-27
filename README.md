@@ -1,6 +1,6 @@
 # Word Frequency Counter
 
-A small Python function that counts how many times each word appears in a given text. Handles puctuation and captalization automatically (case-insensitive, punctuation-stripped).
+A small Python function that counts how many times each word appears in a given text. Handles punctuation and capitalization automatically (case-insensitive, punctuation-stripped).
 
 ## Usage
 
